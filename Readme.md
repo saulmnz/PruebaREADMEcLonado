@@ -1,4 +1,4 @@
-# <span style="color:pink">He clonado el README de DAMIAN </span>
+# <span style="color:pink">He clonado el README de DAMIAN </span> :smile:
 
 ## *Pasos para realizar el clonado:*
 
